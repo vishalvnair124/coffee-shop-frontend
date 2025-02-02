@@ -18,7 +18,7 @@ The Coffee Shop Frontend is a stylish and responsive website designed to showcas
 - **HTML**: Structuring the webpage content.
 - **CSS**: Styling the page with custom fonts, colors, and layouts.
 - **Google Fonts**: Playfair Display SC for a premium look.
-- **Flexbox **: For a responsive and adaptable design.
+- **Flexbox**: For a responsive and adaptable design.
 
 ## 📸 Screenshots
 _Add screenshots here to showcase the UI_
